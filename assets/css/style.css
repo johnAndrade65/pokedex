@@ -1,7 +1,7 @@
 body {
 	background: #EFEFBB;
-	background: linear-gradient(to right, rgb(197, 230, 236), rgb(239, 187, 230));
-	color: white;
+	background: linear-gradient(to right, rgb(255, 36, 36), rgb(255, 25, 25));
+	color: rgb(255, 255, 255);
 	margin: 0;
 	font-family: rubik;
 }
